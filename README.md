@@ -1,4 +1,5 @@
 # ron
+_For dealing with bad Mage requests_
 
 ## Contributing
 
